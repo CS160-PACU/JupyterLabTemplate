@@ -11,3 +11,6 @@ matplotlib-inline==0.1.6
 ipykernel==6.28.0
 jupyterlab-widgets==3.0.9
 widgetsnbextension==3.6.6
+mypy==1.13.0
+mypy-extensions=1.0.0
+nb_mypy==1.0.5
